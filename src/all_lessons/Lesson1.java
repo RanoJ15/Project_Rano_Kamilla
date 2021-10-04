@@ -5,6 +5,8 @@ public class Lesson1 {
         System.out.println("Hello Kamila");
         System.out.println("Hello Rano");
         System.out.println("Hello everyone");
+        System.out.println("Java");
+
 
     }
 
